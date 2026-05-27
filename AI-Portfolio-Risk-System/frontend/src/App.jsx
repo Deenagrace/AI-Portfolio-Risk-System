@@ -80,7 +80,7 @@ function App() {
 
   // Fetch initial client data and map stable, unique alert timestamps to each entity node
   useEffect(() => {
-    axios.get("http://127.0.0.1:8000/clients")
+    axios.get("https://YOUR-RENDER-LINK.onrender.com/clients")
       .then((response) => {
         const clientsWithAlertTimes = response.data.map(client => ({
           ...client,
