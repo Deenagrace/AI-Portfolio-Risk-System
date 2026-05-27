@@ -1,0 +1,3912 @@
+[
+  {
+    "client_id": "824c6339-baf4-4bbc-8180-1e8815a56489",
+    "name": "Megan Davis",
+    "email": "bergjulie@example.net",
+    "phone": "001-690-793-2424x04248",
+    "address": "826 Brandon Island, Debraland, PR 18326",
+    "joined_date": "2026-02-08",
+    "portfolio_value": 243043.5,
+    "positions": [
+      {
+        "ticker": "COST",
+        "quantity": 146,
+        "average_buy_price": 70.34
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 347,
+        "average_buy_price": 520.46
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 95,
+        "average_buy_price": 340.34
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 18,
+        "average_buy_price": 263.11
+      }
+    ]
+  },
+  {
+    "client_id": "f17c866e-8fc1-4a91-a7d3-1cc53be74b5f",
+    "name": "Jeffrey Cummings",
+    "email": "ibennett@example.org",
+    "phone": "+1-746-647-4841x339",
+    "address": "409 Burgess Rue, New Mariahaven, AS 86435",
+    "joined_date": "2025-05-10",
+    "portfolio_value": 417988.55,
+    "positions": [
+      {
+        "ticker": "PG",
+        "quantity": 100,
+        "average_buy_price": 629.74
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 286,
+        "average_buy_price": 145.07
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 205,
+        "average_buy_price": 22.57
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 382,
+        "average_buy_price": 120.38
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 393,
+        "average_buy_price": 515.02
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 66,
+        "average_buy_price": 513.76
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 345,
+        "average_buy_price": 73.34
+      }
+    ]
+  },
+  {
+    "client_id": "102d40cf-25d4-42c4-bcd2-9f1db5d28813",
+    "name": "Tabitha Brown",
+    "email": "amandabrown@example.org",
+    "phone": "001-613-616-4518x7668",
+    "address": "721 Bryan Villages, Webertown, ND 13994",
+    "joined_date": "2024-12-03",
+    "portfolio_value": 163560.06,
+    "positions": [
+      {
+        "ticker": "UPS",
+        "quantity": 294,
+        "average_buy_price": 11.0
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 49,
+        "average_buy_price": 241.83
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 192,
+        "average_buy_price": 235.6
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 272,
+        "average_buy_price": 58.19
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 315,
+        "average_buy_price": 175.98
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 69,
+        "average_buy_price": 341.73
+      }
+    ]
+  },
+  {
+    "client_id": "449f6de3-0146-483f-ad38-a8998788c1f9",
+    "name": "Jennifer Stevens",
+    "email": "hannacarlos@example.net",
+    "phone": "735.659.0538x6620",
+    "address": "PSC 1192, Box 3085, APO AA 09979",
+    "joined_date": "2022-11-23",
+    "portfolio_value": 724907.44,
+    "positions": [
+      {
+        "ticker": "CRM",
+        "quantity": 423,
+        "average_buy_price": 293.94
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 65,
+        "average_buy_price": 437.92
+      },
+      {
+        "ticker": "META",
+        "quantity": 181,
+        "average_buy_price": 210.62
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 36,
+        "average_buy_price": 434.64
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 291,
+        "average_buy_price": 452.28
+      },
+      {
+        "ticker": "HD",
+        "quantity": 443,
+        "average_buy_price": 522.67
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 370,
+        "average_buy_price": 102.98
+      },
+      {
+        "ticker": "T",
+        "quantity": 234,
+        "average_buy_price": 426.32
+      }
+    ]
+  },
+  {
+    "client_id": "31e4e5d8-f202-48a2-9483-d3768fe80095",
+    "name": "David Thompson",
+    "email": "eolson@example.com",
+    "phone": "(628)844-0060x7475",
+    "address": "8536 Ashlee Roads, North Michelleport, WA 09912",
+    "joined_date": "2023-12-11",
+    "portfolio_value": 890000.24,
+    "positions": [
+      {
+        "ticker": "COST",
+        "quantity": 441,
+        "average_buy_price": 137.42
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 381,
+        "average_buy_price": 628.87
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 16,
+        "average_buy_price": 241.0
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 480,
+        "average_buy_price": 73.43
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 422,
+        "average_buy_price": 553.48
+      },
+      {
+        "ticker": "HD",
+        "quantity": 320,
+        "average_buy_price": 247.46
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 195,
+        "average_buy_price": 519.29
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 338,
+        "average_buy_price": 303.22
+      }
+    ]
+  },
+  {
+    "client_id": "853b7669-df21-4119-afe7-57b2711aee6b",
+    "name": "Adam Gibson",
+    "email": "danieltucker@example.net",
+    "phone": "001-895-869-0871x044",
+    "address": "2892 Snyder Station, West Patricia, OH 02712",
+    "joined_date": "2023-03-06",
+    "portfolio_value": 519763.94,
+    "positions": [
+      {
+        "ticker": "NFLX",
+        "quantity": 428,
+        "average_buy_price": 625.99
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 254,
+        "average_buy_price": 464.01
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 373,
+        "average_buy_price": 265.92
+      }
+    ]
+  },
+  {
+    "client_id": "963a8c51-e741-4e1f-848e-91860ee87ca8",
+    "name": "Jennifer Wagner",
+    "email": "justinmoreno@example.com",
+    "phone": "466-864-9958",
+    "address": "4874 Sydney Course, South Shawnland, PA 76923",
+    "joined_date": "2021-11-29",
+    "portfolio_value": 178980.46,
+    "positions": [
+      {
+        "ticker": "V",
+        "quantity": 138,
+        "average_buy_price": 342.8
+      },
+      {
+        "ticker": "META",
+        "quantity": 353,
+        "average_buy_price": 88.98
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 478,
+        "average_buy_price": 197.81
+      }
+    ]
+  },
+  {
+    "client_id": "9f923344-2951-4e8a-b1f5-5223171849fb",
+    "name": "Brian Benson",
+    "email": "jordankenneth@example.com",
+    "phone": "750.299.5928x184",
+    "address": "80070 Katie Estate Suite 775, Port Phillip, MI 64142",
+    "joined_date": "2021-01-30",
+    "portfolio_value": 413801.46,
+    "positions": [
+      {
+        "ticker": "HON",
+        "quantity": 360,
+        "average_buy_price": 134.64
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 441,
+        "average_buy_price": 137.42
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 71,
+        "average_buy_price": 226.99
+      },
+      {
+        "ticker": "KO",
+        "quantity": 282,
+        "average_buy_price": 425.24
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 17,
+        "average_buy_price": 536.59
+      },
+      {
+        "ticker": "META",
+        "quantity": 348,
+        "average_buy_price": 100.11
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 332,
+        "average_buy_price": 89.71
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 149,
+        "average_buy_price": 527.4
+      }
+    ]
+  },
+  {
+    "client_id": "ac8bf9ea-07f6-4115-8a1e-73251d51c153",
+    "name": "Eric Hunter",
+    "email": "ronaldcooper@example.net",
+    "phone": "7744392986",
+    "address": "4779 Moreno Mountains Suite 967, Frazierchester, MI 94898",
+    "joined_date": "2023-06-03",
+    "portfolio_value": 530891.38,
+    "positions": [
+      {
+        "ticker": "CSCO",
+        "quantity": 244,
+        "average_buy_price": 249.28
+      },
+      {
+        "ticker": "V",
+        "quantity": 409,
+        "average_buy_price": 380.43
+      },
+      {
+        "ticker": "MA",
+        "quantity": 152,
+        "average_buy_price": 430.77
+      },
+      {
+        "ticker": "KO",
+        "quantity": 357,
+        "average_buy_price": 566.5
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 60,
+        "average_buy_price": 322.31
+      }
+    ]
+  },
+  {
+    "client_id": "54c96d37-8174-4a1b-8eb5-ef2904ecd658",
+    "name": "Anthony Morales",
+    "email": "millermichele@example.net",
+    "phone": "543-383-2800x49238",
+    "address": "91908 Jason Mountains, South Kimberlyhaven, ID 16110",
+    "joined_date": "2025-04-25",
+    "portfolio_value": 337136.43,
+    "positions": [
+      {
+        "ticker": "MCD",
+        "quantity": 110,
+        "average_buy_price": 607.67
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 401,
+        "average_buy_price": 264.97
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 203,
+        "average_buy_price": 430.15
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 72,
+        "average_buy_price": 108.96
+      },
+      {
+        "ticker": "HD",
+        "quantity": 235,
+        "average_buy_price": 223.46
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 11,
+        "average_buy_price": 324.31
+      }
+    ]
+  },
+  {
+    "client_id": "be3b90b6-0fb1-4147-9927-8ae1f415d122",
+    "name": "Claire Castro",
+    "email": "elizabethsmith@example.com",
+    "phone": "+1-695-302-0618",
+    "address": "8905 Krista Circle Suite 044, Debratown, MO 43123",
+    "joined_date": "2022-12-08",
+    "portfolio_value": 587011.93,
+    "positions": [
+      {
+        "ticker": "PG",
+        "quantity": 218,
+        "average_buy_price": 423.91
+      },
+      {
+        "ticker": "HON",
+        "quantity": 208,
+        "average_buy_price": 253.78
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 175,
+        "average_buy_price": 365.29
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 165,
+        "average_buy_price": 148.85
+      },
+      {
+        "ticker": "MA",
+        "quantity": 68,
+        "average_buy_price": 476.44
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 61,
+        "average_buy_price": 214.77
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 69,
+        "average_buy_price": 592.24
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 487,
+        "average_buy_price": 545.67
+      }
+    ]
+  },
+  {
+    "client_id": "0a6ae474-b624-473a-a778-ac1949835e41",
+    "name": "Randy Bailey",
+    "email": "lvillegas@example.org",
+    "phone": "871-939-9926x29023",
+    "address": "6337 Erik Circles Suite 062, North Seanmouth, TN 97441",
+    "joined_date": "2024-08-06",
+    "portfolio_value": 711566.91,
+    "positions": [
+      {
+        "ticker": "LLY",
+        "quantity": 439,
+        "average_buy_price": 465.47
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 135,
+        "average_buy_price": 102.52
+      },
+      {
+        "ticker": "BMY",
+        "quantity": 282,
+        "average_buy_price": 66.16
+      },
+      {
+        "ticker": "MA",
+        "quantity": 97,
+        "average_buy_price": 581.03
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 115,
+        "average_buy_price": 424.39
+      },
+      {
+        "ticker": "HD",
+        "quantity": 348,
+        "average_buy_price": 556.48
+      },
+      {
+        "ticker": "COST",
+        "quantity": 113,
+        "average_buy_price": 649.11
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 452,
+        "average_buy_price": 136.59
+      }
+    ]
+  },
+  {
+    "client_id": "485f9b73-a497-44f4-844b-330725cc43d2",
+    "name": "Cody Smith",
+    "email": "kelly37@example.org",
+    "phone": "484.880.6479",
+    "address": "3424 Denise Knoll, Joyceview, OK 56439",
+    "joined_date": "2024-06-04",
+    "portfolio_value": 542566.8,
+    "positions": [
+      {
+        "ticker": "ADBE",
+        "quantity": 103,
+        "average_buy_price": 122.31
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 339,
+        "average_buy_price": 427.36
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 158,
+        "average_buy_price": 604.47
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 492,
+        "average_buy_price": 312.65
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 348,
+        "average_buy_price": 338.86
+      }
+    ]
+  },
+  {
+    "client_id": "ffb10bf1-ee69-4179-9958-492bacc836c9",
+    "name": "Erica Vasquez",
+    "email": "salasmary@example.com",
+    "phone": "(407)856-2856",
+    "address": "418 Fleming Mount Apt. 349, Craneside, IA 93089",
+    "joined_date": "2024-06-21",
+    "portfolio_value": 183121.46,
+    "positions": [
+      {
+        "ticker": "BMY",
+        "quantity": 277,
+        "average_buy_price": 600.33
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 186,
+        "average_buy_price": 13.69
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 65,
+        "average_buy_price": 12.47
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 22,
+        "average_buy_price": 73.35
+      }
+    ]
+  },
+  {
+    "client_id": "241839e8-dde2-4280-a8f0-f7cf2e1f3fd3",
+    "name": "Victor Cisneros",
+    "email": "icampbell@example.net",
+    "phone": "603.295.3803",
+    "address": "81597 Charles Cliff Suite 416, South Derrick, IA 08015",
+    "joined_date": "2022-05-03",
+    "portfolio_value": 294803.84,
+    "positions": [
+      {
+        "ticker": "CRM",
+        "quantity": 411,
+        "average_buy_price": 284.22
+      },
+      {
+        "ticker": "META",
+        "quantity": 190,
+        "average_buy_price": 268.06
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 111,
+        "average_buy_price": 118.75
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 158,
+        "average_buy_price": 630.6
+      }
+    ]
+  },
+  {
+    "client_id": "5ce055ad-ee1d-4870-9465-8dcf696ff982",
+    "name": "Stephen Hensley",
+    "email": "justin30@example.org",
+    "phone": "(351)853-3308x462",
+    "address": "9703 Kayla Villages Suite 664, Adamston, MO 48607",
+    "joined_date": "2022-11-13",
+    "portfolio_value": 418093.24,
+    "positions": [
+      {
+        "ticker": "HD",
+        "quantity": 408,
+        "average_buy_price": 395.39
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 334,
+        "average_buy_price": 15.19
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 161,
+        "average_buy_price": 393.34
+      },
+      {
+        "ticker": "V",
+        "quantity": 113,
+        "average_buy_price": 618.9
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 163,
+        "average_buy_price": 647.33
+      }
+    ]
+  },
+  {
+    "client_id": "7e91ff8f-3974-4386-bb15-ab19968270d7",
+    "name": "David Porter",
+    "email": "gchavez@example.net",
+    "phone": "+1-245-989-4798x9657",
+    "address": "73269 Raymond Underpass Apt. 360, Cartermouth, IN 85890",
+    "joined_date": "2020-11-06",
+    "portfolio_value": 691231.77,
+    "positions": [
+      {
+        "ticker": "KO",
+        "quantity": 487,
+        "average_buy_price": 71.01
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 257,
+        "average_buy_price": 634.67
+      },
+      {
+        "ticker": "PG",
+        "quantity": 306,
+        "average_buy_price": 462.71
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 151,
+        "average_buy_price": 640.41
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 475,
+        "average_buy_price": 249.67
+      },
+      {
+        "ticker": "HD",
+        "quantity": 465,
+        "average_buy_price": 208.91
+      },
+      {
+        "ticker": "MA",
+        "quantity": 34,
+        "average_buy_price": 60.27
+      }
+    ]
+  },
+  {
+    "client_id": "8b23cb63-ceac-4530-b2b0-462dd20e116b",
+    "name": "Linda Lopez",
+    "email": "charlesjackson@example.com",
+    "phone": "486.922.1331",
+    "address": "59529 Moore Gardens, Gainesport, LA 29295",
+    "joined_date": "2023-08-07",
+    "portfolio_value": 480921.56,
+    "positions": [
+      {
+        "ticker": "CMCSA",
+        "quantity": 466,
+        "average_buy_price": 354.74
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 418,
+        "average_buy_price": 562.83
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 460,
+        "average_buy_price": 99.83
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 67,
+        "average_buy_price": 475.28
+      }
+    ]
+  },
+  {
+    "client_id": "ec7605b1-406c-41d5-99e4-67794370eec6",
+    "name": "Mary Smith",
+    "email": "andersonvanessa@example.org",
+    "phone": "+1-424-833-6676x826",
+    "address": "256 Schneider Fields Suite 473, Port Jackson, RI 20317",
+    "joined_date": "2026-04-24",
+    "portfolio_value": 321333.58,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "quantity": 202,
+        "average_buy_price": 114.24
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 163,
+        "average_buy_price": 24.04
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 70,
+        "average_buy_price": 217.52
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 482,
+        "average_buy_price": 207.56
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 422,
+        "average_buy_price": 402.54
+      }
+    ]
+  },
+  {
+    "client_id": "a424da97-5c77-4e5d-b189-322ac058ec00",
+    "name": "Lisa Moreno",
+    "email": "lancelewis@example.com",
+    "phone": "956-261-1023",
+    "address": "489 Young Common, Port Joel, PR 61680",
+    "joined_date": "2021-09-22",
+    "portfolio_value": 455576.78,
+    "positions": [
+      {
+        "ticker": "AMZN",
+        "quantity": 141,
+        "average_buy_price": 57.68
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 108,
+        "average_buy_price": 88.93
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 118,
+        "average_buy_price": 219.93
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 336,
+        "average_buy_price": 306.79
+      },
+      {
+        "ticker": "MA",
+        "quantity": 17,
+        "average_buy_price": 377.43
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 189,
+        "average_buy_price": 221.24
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 279,
+        "average_buy_price": 524.03
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 435,
+        "average_buy_price": 201.71
+      }
+    ]
+  },
+  {
+    "client_id": "49b261c6-66ca-4992-9ab4-b99511b2e0c5",
+    "name": "Arthur Duncan",
+    "email": "justin96@example.com",
+    "phone": "001-458-744-9501x73583",
+    "address": "577 Russell Radial Apt. 992, Hallshire, GA 81211",
+    "joined_date": "2023-09-09",
+    "portfolio_value": 307627.38,
+    "positions": [
+      {
+        "ticker": "BAC",
+        "quantity": 408,
+        "average_buy_price": 135.11
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 431,
+        "average_buy_price": 502.47
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 182,
+        "average_buy_price": 126.58
+      }
+    ]
+  },
+  {
+    "client_id": "a60642de-75b8-480d-9e1d-fc0743068337",
+    "name": "Kenneth Skinner",
+    "email": "jordanpowell@example.com",
+    "phone": "7627065333",
+    "address": "400 Lisa Glens Apt. 870, Hammondhaven, KS 42263",
+    "joined_date": "2020-12-20",
+    "portfolio_value": 553862.97,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 452,
+        "average_buy_price": 528.72
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 486,
+        "average_buy_price": 504.28
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 432,
+        "average_buy_price": 46.01
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 451,
+        "average_buy_price": 74.31
+      }
+    ]
+  },
+  {
+    "client_id": "027659a0-df48-4745-a03f-257791933bf2",
+    "name": "David Burns",
+    "email": "palmermark@example.com",
+    "phone": "355-397-3799x023",
+    "address": "1473 Parker Field Suite 065, Fowlerfurt, MD 10763",
+    "joined_date": "2022-03-06",
+    "portfolio_value": 737254.4,
+    "positions": [
+      {
+        "ticker": "KO",
+        "quantity": 281,
+        "average_buy_price": 427.93
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 413,
+        "average_buy_price": 300.15
+      },
+      {
+        "ticker": "BMY",
+        "quantity": 83,
+        "average_buy_price": 224.27
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 492,
+        "average_buy_price": 97.48
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 85,
+        "average_buy_price": 60.25
+      },
+      {
+        "ticker": "META",
+        "quantity": 94,
+        "average_buy_price": 260.54
+      },
+      {
+        "ticker": "ORCL",
+        "quantity": 427,
+        "average_buy_price": 598.31
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 187,
+        "average_buy_price": 519.34
+      }
+    ]
+  },
+  {
+    "client_id": "731eb0b1-ac66-4d6d-9ec1-ac144435157d",
+    "name": "Frederick Bates",
+    "email": "jeff65@example.com",
+    "phone": "(904)935-3635x79710",
+    "address": "80840 Jonathan Plains, Sergiobury, MP 45265",
+    "joined_date": "2026-02-26",
+    "portfolio_value": 279622.59,
+    "positions": [
+      {
+        "ticker": "PEP",
+        "quantity": 154,
+        "average_buy_price": 225.86
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 301,
+        "average_buy_price": 228.78
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 162,
+        "average_buy_price": 490.85
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 346,
+        "average_buy_price": 208.04
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 47,
+        "average_buy_price": 196.53
+      }
+    ]
+  },
+  {
+    "client_id": "9680953a-d9f6-468e-a958-1a8acd2f0adf",
+    "name": "Michelle Howell",
+    "email": "thomasdavid@example.com",
+    "phone": "+1-362-447-9302",
+    "address": "4195 Tara Expressway Suite 550, South David, AZ 45023",
+    "joined_date": "2025-12-14",
+    "portfolio_value": 530777.29,
+    "positions": [
+      {
+        "ticker": "QCOM",
+        "quantity": 479,
+        "average_buy_price": 28.35
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 322,
+        "average_buy_price": 594.59
+      },
+      {
+        "ticker": "V",
+        "quantity": 298,
+        "average_buy_price": 147.27
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 186,
+        "average_buy_price": 189.01
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 127,
+        "average_buy_price": 437.48
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 10,
+        "average_buy_price": 133.2
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 285,
+        "average_buy_price": 523.08
+      },
+      {
+        "ticker": "COST",
+        "quantity": 150,
+        "average_buy_price": 86.26
+      }
+    ]
+  },
+  {
+    "client_id": "6d784d0b-0c6c-46a1-a57a-dd0c3379449b",
+    "name": "Louis Moore",
+    "email": "christopher67@example.net",
+    "phone": "577.243.1303x115",
+    "address": "90361 Taylor Summit, Hudsonhaven, MO 17539",
+    "joined_date": "2023-12-28",
+    "portfolio_value": 277674.7,
+    "positions": [
+      {
+        "ticker": "CSCO",
+        "quantity": 223,
+        "average_buy_price": 51.65
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 201,
+        "average_buy_price": 188.04
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 69,
+        "average_buy_price": 471.96
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 79,
+        "average_buy_price": 75.36
+      },
+      {
+        "ticker": "KO",
+        "quantity": 345,
+        "average_buy_price": 521.39
+      }
+    ]
+  },
+  {
+    "client_id": "0c5055b0-b9bd-42b1-a11b-6fda09e964a9",
+    "name": "Christian Thomas",
+    "email": "rothnoah@example.net",
+    "phone": "+1-979-854-8707x0229",
+    "address": "623 Ashley Drive Apt. 228, Robertsport, AL 84564",
+    "joined_date": "2026-01-15",
+    "portfolio_value": 782972.8,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "quantity": 21,
+        "average_buy_price": 626.14
+      },
+      {
+        "ticker": "NVDA",
+        "quantity": 314,
+        "average_buy_price": 362.21
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 230,
+        "average_buy_price": 15.67
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 35,
+        "average_buy_price": 182.15
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 266,
+        "average_buy_price": 629.32
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 438,
+        "average_buy_price": 478.21
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 368,
+        "average_buy_price": 598.53
+      }
+    ]
+  },
+  {
+    "client_id": "ce7c45c8-db80-4760-a232-04c86fd21577",
+    "name": "Lauren Hill",
+    "email": "jacquelinehowell@example.org",
+    "phone": "3596008874",
+    "address": "2097 Melendez Pine Suite 834, North Loganborough, KS 92321",
+    "joined_date": "2021-06-05",
+    "portfolio_value": 420558.16,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "quantity": 227,
+        "average_buy_price": 18.52
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 325,
+        "average_buy_price": 551.59
+      },
+      {
+        "ticker": "ORCL",
+        "quantity": 281,
+        "average_buy_price": 249.68
+      },
+      {
+        "ticker": "GE",
+        "quantity": 81,
+        "average_buy_price": 109.73
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 56,
+        "average_buy_price": 392.16
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 170,
+        "average_buy_price": 492.94
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 305,
+        "average_buy_price": 81.99
+      }
+    ]
+  },
+  {
+    "client_id": "14046969-395b-4831-8def-3c96b5073332",
+    "name": "Eric Wilson",
+    "email": "batesbarbara@example.org",
+    "phone": "(657)949-3111",
+    "address": "92927 Adam Viaduct, Jeffland, IN 53005",
+    "joined_date": "2023-07-19",
+    "portfolio_value": 1001497.65,
+    "positions": [
+      {
+        "ticker": "ORCL",
+        "quantity": 492,
+        "average_buy_price": 201.25
+      },
+      {
+        "ticker": "KO",
+        "quantity": 360,
+        "average_buy_price": 234.4
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 65,
+        "average_buy_price": 251.58
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 489,
+        "average_buy_price": 232.4
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 116,
+        "average_buy_price": 52.98
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 382,
+        "average_buy_price": 595.95
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 338,
+        "average_buy_price": 527.37
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 396,
+        "average_buy_price": 574.56
+      }
+    ]
+  },
+  {
+    "client_id": "c1dd1f7d-41c8-4903-b194-93e3731fa913",
+    "name": "Christopher Miller",
+    "email": "robert18@example.org",
+    "phone": "544-404-9383x0432",
+    "address": "8478 Robert Village Suite 527, Jeffreyshire, UT 79287",
+    "joined_date": "2025-08-09",
+    "portfolio_value": 225060.11,
+    "positions": [
+      {
+        "ticker": "TXN",
+        "quantity": 25,
+        "average_buy_price": 212.46
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 290,
+        "average_buy_price": 462.54
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 340,
+        "average_buy_price": 113.17
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 200,
+        "average_buy_price": 169.06
+      }
+    ]
+  },
+  {
+    "client_id": "19085eea-1a4a-49d6-b6ce-6b511de165db",
+    "name": "Ashley Noble",
+    "email": "heidi93@example.org",
+    "phone": "001-968-723-1252x1443",
+    "address": "USCGC Villanueva, FPO AP 80882",
+    "joined_date": "2025-02-10",
+    "portfolio_value": 631820.95,
+    "positions": [
+      {
+        "ticker": "MCD",
+        "quantity": 342,
+        "average_buy_price": 241.05
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 261,
+        "average_buy_price": 600.02
+      },
+      {
+        "ticker": "META",
+        "quantity": 329,
+        "average_buy_price": 114.83
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 308,
+        "average_buy_price": 117.16
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 453,
+        "average_buy_price": 477.61
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 127,
+        "average_buy_price": 301.68
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 309,
+        "average_buy_price": 93.25
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 162,
+        "average_buy_price": 165.86
+      }
+    ]
+  },
+  {
+    "client_id": "9849e874-60a8-4cf0-9cab-ad9cc8951906",
+    "name": "Pamela Chapman",
+    "email": "wallacepaul@example.com",
+    "phone": "763-502-6463",
+    "address": "45192 Kemp Inlet Apt. 557, West Virginiaton, MS 47399",
+    "joined_date": "2021-07-15",
+    "portfolio_value": 614905.6,
+    "positions": [
+      {
+        "ticker": "T",
+        "quantity": 285,
+        "average_buy_price": 250.97
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 465,
+        "average_buy_price": 433.37
+      },
+      {
+        "ticker": "NVDA",
+        "quantity": 90,
+        "average_buy_price": 278.4
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 257,
+        "average_buy_price": 89.27
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 476,
+        "average_buy_price": 573.68
+      }
+    ]
+  },
+  {
+    "client_id": "7ad938c4-4200-49f4-a5db-56a77c42f3d4",
+    "name": "Ruth Mcneil",
+    "email": "james65@example.org",
+    "phone": "(561)543-1060x7099",
+    "address": "993 Lauren Glen, Reneefort, CT 05908",
+    "joined_date": "2025-07-10",
+    "portfolio_value": 311686.11,
+    "positions": [
+      {
+        "ticker": "MSFT",
+        "quantity": 410,
+        "average_buy_price": 324.13
+      },
+      {
+        "ticker": "HD",
+        "quantity": 50,
+        "average_buy_price": 164.39
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 184,
+        "average_buy_price": 402.34
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 154,
+        "average_buy_price": 600.75
+      }
+    ]
+  },
+  {
+    "client_id": "a2cb3015-72dd-4d14-8809-d4a1e4e05050",
+    "name": "Pamela Wilkerson",
+    "email": "donald76@example.com",
+    "phone": "305.773.0768x2151",
+    "address": "48577 Stephens Views, Ericaville, CT 60364",
+    "joined_date": "2022-01-26",
+    "portfolio_value": 206038.24,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 88,
+        "average_buy_price": 119.1
+      },
+      {
+        "ticker": "GE",
+        "quantity": 441,
+        "average_buy_price": 294.34
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 222,
+        "average_buy_price": 245.31
+      }
+    ]
+  },
+  {
+    "client_id": "ce0a8551-a720-4c3f-92dc-2586ae44f04e",
+    "name": "Tami Cook",
+    "email": "samanthafischer@example.com",
+    "phone": "(897)377-9993x79970",
+    "address": "18523 Phillips Corner, Hendrixtown, AS 08936",
+    "joined_date": "2025-06-23",
+    "portfolio_value": 87842.84,
+    "positions": [
+      {
+        "ticker": "QCOM",
+        "quantity": 10,
+        "average_buy_price": 435.48
+      },
+      {
+        "ticker": "COST",
+        "quantity": 107,
+        "average_buy_price": 90.58
+      },
+      {
+        "ticker": "PG",
+        "quantity": 348,
+        "average_buy_price": 117.6
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 116,
+        "average_buy_price": 279.07
+      }
+    ]
+  },
+  {
+    "client_id": "78f9ea74-6725-44f6-9c4b-c9eedca2121b",
+    "name": "Tiffany Hester",
+    "email": "rhodge@example.org",
+    "phone": "3869675673",
+    "address": "00632 Joseph Forest, Beckside, WA 94811",
+    "joined_date": "2025-01-09",
+    "portfolio_value": 615654.74,
+    "positions": [
+      {
+        "ticker": "TSLA",
+        "quantity": 282,
+        "average_buy_price": 72.97
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 25,
+        "average_buy_price": 107.6
+      },
+      {
+        "ticker": "HD",
+        "quantity": 487,
+        "average_buy_price": 509.04
+      },
+      {
+        "ticker": "GE",
+        "quantity": 187,
+        "average_buy_price": 201.03
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 345,
+        "average_buy_price": 89.32
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 213,
+        "average_buy_price": 581.0
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 408,
+        "average_buy_price": 302.66
+      }
+    ]
+  },
+  {
+    "client_id": "6282bc0d-240c-4483-9c58-90596385889b",
+    "name": "Courtney Becker",
+    "email": "smartinez@example.net",
+    "phone": "261.304.4630",
+    "address": "93741 Kelly Circle, Rebekahtown, SC 22894",
+    "joined_date": "2021-07-14",
+    "portfolio_value": 399572.2,
+    "positions": [
+      {
+        "ticker": "GE",
+        "quantity": 369,
+        "average_buy_price": 610.4
+      },
+      {
+        "ticker": "MA",
+        "quantity": 74,
+        "average_buy_price": 215.69
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 438,
+        "average_buy_price": 127.53
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 106,
+        "average_buy_price": 184.42
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 299,
+        "average_buy_price": 24.01
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 311,
+        "average_buy_price": 214.77
+      },
+      {
+        "ticker": "T",
+        "quantity": 36,
+        "average_buy_price": 145.13
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 14,
+        "average_buy_price": 212.88
+      }
+    ]
+  },
+  {
+    "client_id": "f6b08621-afeb-45dd-9a2e-e3535993c620",
+    "name": "Peter Jones",
+    "email": "aliciamarsh@example.com",
+    "phone": "001-437-461-4045x861",
+    "address": "689 Margaret Estates, West Thomasmouth, ND 62393",
+    "joined_date": "2024-06-23",
+    "portfolio_value": 400121.85,
+    "positions": [
+      {
+        "ticker": "WMT",
+        "quantity": 341,
+        "average_buy_price": 48.64
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 430,
+        "average_buy_price": 303.27
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 196,
+        "average_buy_price": 474.26
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 341,
+        "average_buy_price": 401.75
+      }
+    ]
+  },
+  {
+    "client_id": "7228d9c4-50d3-4837-a05a-70e462bd956f",
+    "name": "Christine Hernandez",
+    "email": "marissa20@example.com",
+    "phone": "248-423-8687x235",
+    "address": "USS Scott, FPO AP 22983",
+    "joined_date": "2023-10-14",
+    "portfolio_value": 500462.14,
+    "positions": [
+      {
+        "ticker": "AMGN",
+        "quantity": 265,
+        "average_buy_price": 263.39
+      },
+      {
+        "ticker": "META",
+        "quantity": 186,
+        "average_buy_price": 355.7
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 181,
+        "average_buy_price": 416.26
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 236,
+        "average_buy_price": 605.46
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 465,
+        "average_buy_price": 251.32
+      }
+    ]
+  },
+  {
+    "client_id": "bd4515d4-2cef-4b19-a3fd-75f4b11820ee",
+    "name": "Donna Gray",
+    "email": "haroldgreen@example.org",
+    "phone": "966.332.3857x618",
+    "address": "PSC 5508, Box 4520, APO AP 84896",
+    "joined_date": "2021-10-27",
+    "portfolio_value": 836360.34,
+    "positions": [
+      {
+        "ticker": "KO",
+        "quantity": 235,
+        "average_buy_price": 258.99
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 380,
+        "average_buy_price": 475.42
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 357,
+        "average_buy_price": 604.83
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 174,
+        "average_buy_price": 114.57
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 210,
+        "average_buy_price": 233.67
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 43,
+        "average_buy_price": 507.79
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 443,
+        "average_buy_price": 572.44
+      }
+    ]
+  },
+  {
+    "client_id": "df4062b7-e2b4-4822-a44e-fb756c3340b0",
+    "name": "Christopher Reed",
+    "email": "ryanarmstrong@example.net",
+    "phone": "001-599-265-5699",
+    "address": "3192 Dawn Street, North Logan, HI 27277",
+    "joined_date": "2026-05-19",
+    "portfolio_value": 367850.0,
+    "positions": [
+      {
+        "ticker": "LLY",
+        "quantity": 41,
+        "average_buy_price": 93.02
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 205,
+        "average_buy_price": 600.06
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 484,
+        "average_buy_price": 112.33
+      },
+      {
+        "ticker": "AMD",
+        "quantity": 162,
+        "average_buy_price": 246.77
+      },
+      {
+        "ticker": "GE",
+        "quantity": 390,
+        "average_buy_price": 13.15
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 199,
+        "average_buy_price": 79.26
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 328,
+        "average_buy_price": 311.37
+      }
+    ]
+  },
+  {
+    "client_id": "9de0ee93-8d82-49fa-b186-c32982635e82",
+    "name": "Samantha Thompson",
+    "email": "ronald95@example.net",
+    "phone": "(208)898-7395",
+    "address": "104 Hoffman Radial Apt. 712, Benderville, NJ 38590",
+    "joined_date": "2024-03-27",
+    "portfolio_value": 146259.85,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 67,
+        "average_buy_price": 574.23
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 18,
+        "average_buy_price": 206.85
+      },
+      {
+        "ticker": "ORCL",
+        "quantity": 486,
+        "average_buy_price": 193.85
+      }
+    ]
+  },
+  {
+    "client_id": "55a81d1b-f1ad-4dd0-a5e2-d795c0493c1a",
+    "name": "Michael Harris",
+    "email": "tony55@example.org",
+    "phone": "573.440.1602",
+    "address": "385 Andrea Tunnel, North Adriana, OR 08097",
+    "joined_date": "2024-02-19",
+    "portfolio_value": 624591.24,
+    "positions": [
+      {
+        "ticker": "VZ",
+        "quantity": 470,
+        "average_buy_price": 318.24
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 134,
+        "average_buy_price": 201.4
+      },
+      {
+        "ticker": "COST",
+        "quantity": 448,
+        "average_buy_price": 616.77
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 422,
+        "average_buy_price": 400.58
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 27,
+        "average_buy_price": 74.29
+      }
+    ]
+  },
+  {
+    "client_id": "99871815-46d3-43e7-b352-9ca510ce684e",
+    "name": "Dr. Lauren Elliott DDS",
+    "email": "william08@example.com",
+    "phone": "+1-777-221-5724x533",
+    "address": "0261 Johnson Streets Suite 757, Floresland, NH 99617",
+    "joined_date": "2021-06-11",
+    "portfolio_value": 494476.93,
+    "positions": [
+      {
+        "ticker": "NKE",
+        "quantity": 481,
+        "average_buy_price": 445.14
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 313,
+        "average_buy_price": 46.48
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 196,
+        "average_buy_price": 250.94
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 303,
+        "average_buy_price": 364.27
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 399,
+        "average_buy_price": 240.16
+      }
+    ]
+  },
+  {
+    "client_id": "573a2ef0-c06a-4ce1-a194-87af0b3e2e52",
+    "name": "Jason Gibson",
+    "email": "christinacooper@example.net",
+    "phone": "+1-936-998-6995x43063",
+    "address": "501 Vazquez Drives, West Tricia, MN 33861",
+    "joined_date": "2025-07-30",
+    "portfolio_value": 614041.64,
+    "positions": [
+      {
+        "ticker": "MCD",
+        "quantity": 369,
+        "average_buy_price": 433.18
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 360,
+        "average_buy_price": 494.2
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 483,
+        "average_buy_price": 436.03
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 132,
+        "average_buy_price": 270.01
+      }
+    ]
+  },
+  {
+    "client_id": "0cfa2d92-1226-46d2-ae81-fb296a94dd04",
+    "name": "Thomas Pennington",
+    "email": "jtran@example.org",
+    "phone": "618-485-0509",
+    "address": "98635 Claudia Meadows Apt. 312, Wagnerhaven, KS 56373",
+    "joined_date": "2025-11-02",
+    "portfolio_value": 295048.99,
+    "positions": [
+      {
+        "ticker": "IBM",
+        "quantity": 384,
+        "average_buy_price": 361.22
+      },
+      {
+        "ticker": "KO",
+        "quantity": 52,
+        "average_buy_price": 251.04
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 164,
+        "average_buy_price": 611.63
+      },
+      {
+        "ticker": "HD",
+        "quantity": 90,
+        "average_buy_price": 280.84
+      }
+    ]
+  },
+  {
+    "client_id": "78c6ea31-b282-4ddc-9752-f8f432f14d9d",
+    "name": "Arthur Moss",
+    "email": "alexandralane@example.org",
+    "phone": "891-588-8630x3911",
+    "address": "1546 Sampson Mission, Spencemouth, RI 72586",
+    "joined_date": "2024-10-19",
+    "portfolio_value": 263887.61,
+    "positions": [
+      {
+        "ticker": "BRK.B",
+        "quantity": 106,
+        "average_buy_price": 445.55
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 139,
+        "average_buy_price": 123.53
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 214,
+        "average_buy_price": 605.16
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 142,
+        "average_buy_price": 456.97
+      }
+    ]
+  },
+  {
+    "client_id": "1cd8d490-f68e-4cef-b1c9-fa4d4b900b44",
+    "name": "Connie Horton",
+    "email": "gomezkeith@example.net",
+    "phone": "940.636.4577",
+    "address": "PSC 1752, Box 0403, APO AA 22755",
+    "joined_date": "2023-07-18",
+    "portfolio_value": 257270.95,
+    "positions": [
+      {
+        "ticker": "NFLX",
+        "quantity": 290,
+        "average_buy_price": 213.41
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 219,
+        "average_buy_price": 262.28
+      },
+      {
+        "ticker": "HD",
+        "quantity": 230,
+        "average_buy_price": 555.92
+      },
+      {
+        "ticker": "PG",
+        "quantity": 73,
+        "average_buy_price": 17.58
+      }
+    ]
+  },
+  {
+    "client_id": "714cb6a2-51ac-4ea9-8e0b-f3754ddb98cb",
+    "name": "Sarah Lambert",
+    "email": "jonathan00@example.net",
+    "phone": "984-420-7161x6138",
+    "address": "170 Barry Ferry Suite 673, North William, NE 10110",
+    "joined_date": "2021-10-31",
+    "portfolio_value": 901299.23,
+    "positions": [
+      {
+        "ticker": "BRK.B",
+        "quantity": 163,
+        "average_buy_price": 529.02
+      },
+      {
+        "ticker": "HON",
+        "quantity": 423,
+        "average_buy_price": 560.44
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 241,
+        "average_buy_price": 351.16
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 419,
+        "average_buy_price": 613.76
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 357,
+        "average_buy_price": 124.86
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 441,
+        "average_buy_price": 189.35
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 262,
+        "average_buy_price": 183.6
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 374,
+        "average_buy_price": 21.51
+      }
+    ]
+  },
+  {
+    "client_id": "b3db80e3-9d47-4d10-b9d4-3813e5e8dcbe",
+    "name": "Andrea Webster",
+    "email": "angelamarshall@example.net",
+    "phone": "564-900-3811",
+    "address": "Unit 0643 Box 5757, DPO AA 50199",
+    "joined_date": "2020-10-25",
+    "portfolio_value": 90851.61,
+    "positions": [
+      {
+        "ticker": "COST",
+        "quantity": 152,
+        "average_buy_price": 387.34
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 255,
+        "average_buy_price": 109.03
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 241,
+        "average_buy_price": 14.54
+      }
+    ]
+  },
+  {
+    "client_id": "18c8705e-79fb-4385-bf56-ebf96a5bcc1d",
+    "name": "Suzanne Mccoy",
+    "email": "eolson@example.net",
+    "phone": "001-239-566-6080x648",
+    "address": "365 Cassidy Fields Suite 546, Blankenshiphaven, IN 68812",
+    "joined_date": "2021-03-17",
+    "portfolio_value": 58299.52,
+    "positions": [
+      {
+        "ticker": "TSLA",
+        "quantity": 267,
+        "average_buy_price": 200.42
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 220,
+        "average_buy_price": 12.0
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 12,
+        "average_buy_price": 128.81
+      }
+    ]
+  },
+  {
+    "client_id": "9b38dc28-e8ae-4b4d-8988-18127f84aa97",
+    "name": "John Hernandez",
+    "email": "chandlercody@example.net",
+    "phone": "001-830-277-7093",
+    "address": "USNV Ford, FPO AA 49983",
+    "joined_date": "2025-07-21",
+    "portfolio_value": 532827.69,
+    "positions": [
+      {
+        "ticker": "CRM",
+        "quantity": 321,
+        "average_buy_price": 634.65
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 425,
+        "average_buy_price": 183.34
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 475,
+        "average_buy_price": 181.39
+      },
+      {
+        "ticker": "BMY",
+        "quantity": 202,
+        "average_buy_price": 332.6
+      },
+      {
+        "ticker": "V",
+        "quantity": 138,
+        "average_buy_price": 627.0
+      }
+    ]
+  },
+  {
+    "client_id": "07d76e84-a633-459c-bacb-9d159f81169d",
+    "name": "Shaun Mullins",
+    "email": "gnielsen@example.com",
+    "phone": "629.933.1126",
+    "address": "0739 Douglas Way Apt. 719, West Alisonberg, ND 50647",
+    "joined_date": "2023-06-30",
+    "portfolio_value": 334843.41,
+    "positions": [
+      {
+        "ticker": "COST",
+        "quantity": 472,
+        "average_buy_price": 46.46
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 271,
+        "average_buy_price": 442.74
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 79,
+        "average_buy_price": 354.98
+      },
+      {
+        "ticker": "PG",
+        "quantity": 340,
+        "average_buy_price": 410.99
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 170,
+        "average_buy_price": 103.5
+      }
+    ]
+  },
+  {
+    "client_id": "738b5e52-a240-44fa-a4fd-b55bf4048df3",
+    "name": "Paula Berg",
+    "email": "sstewart@example.org",
+    "phone": "(370)681-3236x93041",
+    "address": "7434 Yu Course, Sarahfurt, PA 55302",
+    "joined_date": "2024-09-25",
+    "portfolio_value": 971593.02,
+    "positions": [
+      {
+        "ticker": "ORCL",
+        "quantity": 137,
+        "average_buy_price": 134.85
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 256,
+        "average_buy_price": 402.36
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 352,
+        "average_buy_price": 513.57
+      },
+      {
+        "ticker": "KO",
+        "quantity": 95,
+        "average_buy_price": 594.86
+      },
+      {
+        "ticker": "BMY",
+        "quantity": 466,
+        "average_buy_price": 413.26
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 245,
+        "average_buy_price": 626.2
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 425,
+        "average_buy_price": 582.49
+      }
+    ]
+  },
+  {
+    "client_id": "29f14cba-f202-4bda-aea9-fd2af5a8fbed",
+    "name": "Stephanie Chen",
+    "email": "frodriguez@example.org",
+    "phone": "(662)499-9347",
+    "address": "4296 Sarah Heights, New Summerborough, SC 06036",
+    "joined_date": "2025-04-07",
+    "portfolio_value": 362051.08,
+    "positions": [
+      {
+        "ticker": "BAC",
+        "quantity": 289,
+        "average_buy_price": 118.8
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 500,
+        "average_buy_price": 205.63
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 366,
+        "average_buy_price": 31.51
+      },
+      {
+        "ticker": "HON",
+        "quantity": 360,
+        "average_buy_price": 429.02
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 216,
+        "average_buy_price": 66.57
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 67,
+        "average_buy_price": 347.02
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 103,
+        "average_buy_price": 144.53
+      }
+    ]
+  },
+  {
+    "client_id": "d354b4b0-4f3a-4d77-a774-db0851f8e5ee",
+    "name": "Linda Bird",
+    "email": "joanne66@example.net",
+    "phone": "283-624-1424x97611",
+    "address": "312 Hernandez Villages, East Brittneymouth, IL 55072",
+    "joined_date": "2024-05-12",
+    "portfolio_value": 560709.51,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "quantity": 336,
+        "average_buy_price": 182.41
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 454,
+        "average_buy_price": 222.48
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 312,
+        "average_buy_price": 385.18
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 441,
+        "average_buy_price": 446.41
+      },
+      {
+        "ticker": "MA",
+        "quantity": 364,
+        "average_buy_price": 158.6
+      }
+    ]
+  },
+  {
+    "client_id": "4c3164ee-a834-4ce1-ba3e-8bb4c22e9cdc",
+    "name": "Kayla Smith",
+    "email": "hayesjoshua@example.com",
+    "phone": "+1-207-953-4647x1388",
+    "address": "148 Stewart Viaduct Suite 915, Perryfort, MT 97174",
+    "joined_date": "2021-02-18",
+    "portfolio_value": 515186.78,
+    "positions": [
+      {
+        "ticker": "GOOGL",
+        "quantity": 396,
+        "average_buy_price": 59.73
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 19,
+        "average_buy_price": 443.31
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 222,
+        "average_buy_price": 108.86
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 324,
+        "average_buy_price": 508.12
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 325,
+        "average_buy_price": 473.09
+      },
+      {
+        "ticker": "HD",
+        "quantity": 394,
+        "average_buy_price": 322.37
+      }
+    ]
+  },
+  {
+    "client_id": "c0cff44c-b8f2-45cc-9043-6b3cdb10d7c9",
+    "name": "Matthew Patterson",
+    "email": "ebrown@example.org",
+    "phone": "(319)677-0088",
+    "address": "78113 Alan Terrace, Jayborough, MP 47044",
+    "joined_date": "2024-06-22",
+    "portfolio_value": 806471.96,
+    "positions": [
+      {
+        "ticker": "BMY",
+        "quantity": 169,
+        "average_buy_price": 530.03
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 318,
+        "average_buy_price": 447.95
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 347,
+        "average_buy_price": 354.33
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 421,
+        "average_buy_price": 31.68
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 436,
+        "average_buy_price": 144.45
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 346,
+        "average_buy_price": 245.85
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 456,
+        "average_buy_price": 627.35
+      }
+    ]
+  },
+  {
+    "client_id": "11dd190b-ca7f-4ae1-9c23-db0a8890fe3a",
+    "name": "Nicholas Garcia",
+    "email": "faithmitchell@example.org",
+    "phone": "5903322886",
+    "address": "17597 Boyd Avenue, South Williammouth, VT 93006",
+    "joined_date": "2020-10-08",
+    "portfolio_value": 328861.5,
+    "positions": [
+      {
+        "ticker": "AMD",
+        "quantity": 168,
+        "average_buy_price": 239.14
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 404,
+        "average_buy_price": 283.19
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 14,
+        "average_buy_price": 131.78
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 128,
+        "average_buy_price": 151.56
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 170,
+        "average_buy_price": 445.7
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 149,
+        "average_buy_price": 412.22
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 128,
+        "average_buy_price": 29.77
+      }
+    ]
+  },
+  {
+    "client_id": "d303315d-185b-4cb2-9083-720ba83fe18e",
+    "name": "Robin Khan",
+    "email": "rebecca84@example.com",
+    "phone": "001-901-299-4808",
+    "address": "6546 Gregory Coves, Adamborough, NV 22581",
+    "joined_date": "2021-11-19",
+    "portfolio_value": 313844.28,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 20,
+        "average_buy_price": 75.33
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 207,
+        "average_buy_price": 479.07
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 328,
+        "average_buy_price": 10.5
+      },
+      {
+        "ticker": "GE",
+        "quantity": 310,
+        "average_buy_price": 81.27
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 249,
+        "average_buy_price": 368.22
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 316,
+        "average_buy_price": 241.82
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 100,
+        "average_buy_price": 11.82
+      }
+    ]
+  },
+  {
+    "client_id": "70c53f5c-6013-4291-b293-c010b7103745",
+    "name": "Nathan Perez",
+    "email": "brittany70@example.com",
+    "phone": "513.781.2259",
+    "address": "89345 John Lock, Hollyland, ME 60031",
+    "joined_date": "2026-02-15",
+    "portfolio_value": 196690.5,
+    "positions": [
+      {
+        "ticker": "CRM",
+        "quantity": 107,
+        "average_buy_price": 544.33
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 259,
+        "average_buy_price": 62.5
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 276,
+        "average_buy_price": 398.82
+      }
+    ]
+  },
+  {
+    "client_id": "d56bf843-3600-4ca1-87b4-257e3ca8d653",
+    "name": "Diane Luna MD",
+    "email": "gilbertlawrence@example.net",
+    "phone": "+1-470-929-8657x09756",
+    "address": "00144 Payne Tunnel Apt. 787, Jeanetteborough, GA 20509",
+    "joined_date": "2020-10-31",
+    "portfolio_value": 662334.69,
+    "positions": [
+      {
+        "ticker": "NKE",
+        "quantity": 94,
+        "average_buy_price": 517.95
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 400,
+        "average_buy_price": 104.78
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 231,
+        "average_buy_price": 521.48
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 474,
+        "average_buy_price": 178.31
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 194,
+        "average_buy_price": 255.04
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 463,
+        "average_buy_price": 563.92
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 66,
+        "average_buy_price": 415.46
+      }
+    ]
+  },
+  {
+    "client_id": "26ae730e-8105-46d3-af64-c96e183dedd3",
+    "name": "Matthew Robinson",
+    "email": "kennetholson@example.com",
+    "phone": "+1-664-472-0713x58092",
+    "address": "045 Cunningham Harbor, Conradburgh, WA 00866",
+    "joined_date": "2025-04-27",
+    "portfolio_value": 278070.31,
+    "positions": [
+      {
+        "ticker": "ORCL",
+        "quantity": 356,
+        "average_buy_price": 264.37
+      },
+      {
+        "ticker": "MA",
+        "quantity": 138,
+        "average_buy_price": 378.04
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 253,
+        "average_buy_price": 499.12
+      }
+    ]
+  },
+  {
+    "client_id": "2ebf76b3-8c4b-47ca-bef1-32026ca8be44",
+    "name": "Sonia Hamilton",
+    "email": "christianholland@example.org",
+    "phone": "+1-384-289-0067x904",
+    "address": "09050 James Crescent, Hamiltonstad, MI 98364",
+    "joined_date": "2020-07-20",
+    "portfolio_value": 567960.75,
+    "positions": [
+      {
+        "ticker": "QCOM",
+        "quantity": 475,
+        "average_buy_price": 319.15
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 378,
+        "average_buy_price": 560.3
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 311,
+        "average_buy_price": 189.07
+      },
+      {
+        "ticker": "META",
+        "quantity": 279,
+        "average_buy_price": 475.32
+      }
+    ]
+  },
+  {
+    "client_id": "1540dc93-02f1-4310-b395-ae97138c78e4",
+    "name": "Patrick Tucker",
+    "email": "kurtalvarez@example.com",
+    "phone": "486-443-7258x63964",
+    "address": "4971 William River Suite 012, North Jonathanfort, WI 43344",
+    "joined_date": "2022-08-23",
+    "portfolio_value": 526218.69,
+    "positions": [
+      {
+        "ticker": "UNH",
+        "quantity": 197,
+        "average_buy_price": 512.13
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 384,
+        "average_buy_price": 577.02
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 350,
+        "average_buy_price": 29.68
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 113,
+        "average_buy_price": 166.43
+      },
+      {
+        "ticker": "NFLX",
+        "quantity": 252,
+        "average_buy_price": 593.3
+      }
+    ]
+  },
+  {
+    "client_id": "e8ad38b4-45e8-4aad-9cdc-4db1c0370c45",
+    "name": "Ashley Horton",
+    "email": "gregoryscott@example.org",
+    "phone": "+1-971-540-8968x793",
+    "address": "7794 Hernandez Gardens Suite 217, Fieldsshire, FL 77555",
+    "joined_date": "2022-04-26",
+    "portfolio_value": 859428.06,
+    "positions": [
+      {
+        "ticker": "CSCO",
+        "quantity": 487,
+        "average_buy_price": 630.33
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 370,
+        "average_buy_price": 599.43
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 98,
+        "average_buy_price": 138.71
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 218,
+        "average_buy_price": 618.83
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 236,
+        "average_buy_price": 327.07
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 342,
+        "average_buy_price": 122.16
+      }
+    ]
+  },
+  {
+    "client_id": "6b3046d1-3b0a-4552-be8a-4eda52a6a163",
+    "name": "Shelby Johnson",
+    "email": "darrellvillegas@example.org",
+    "phone": "(234)206-3129x32671",
+    "address": "4304 Erica Lake, Lake Vincent, NH 38805",
+    "joined_date": "2025-09-28",
+    "portfolio_value": 600213.67,
+    "positions": [
+      {
+        "ticker": "AMZN",
+        "quantity": 208,
+        "average_buy_price": 490.35
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 358,
+        "average_buy_price": 173.87
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 372,
+        "average_buy_price": 133.57
+      },
+      {
+        "ticker": "ORCL",
+        "quantity": 166,
+        "average_buy_price": 287.3
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 338,
+        "average_buy_price": 324.71
+      },
+      {
+        "ticker": "KO",
+        "quantity": 245,
+        "average_buy_price": 560.5
+      },
+      {
+        "ticker": "GE",
+        "quantity": 279,
+        "average_buy_price": 247.72
+      }
+    ]
+  },
+  {
+    "client_id": "ba9cb853-535f-4a5f-b5c2-55372f7e0690",
+    "name": "Lisa Graham",
+    "email": "morganjustin@example.com",
+    "phone": "(849)468-4257x918",
+    "address": "604 Christina Place, Andrewport, MO 95154",
+    "joined_date": "2024-09-02",
+    "portfolio_value": 385101.67,
+    "positions": [
+      {
+        "ticker": "XOM",
+        "quantity": 26,
+        "average_buy_price": 56.38
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 189,
+        "average_buy_price": 211.96
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 470,
+        "average_buy_price": 384.12
+      },
+      {
+        "ticker": "NVDA",
+        "quantity": 31,
+        "average_buy_price": 648.92
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 321,
+        "average_buy_price": 263.93
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 215,
+        "average_buy_price": 195.03
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 20,
+        "average_buy_price": 439.76
+      },
+      {
+        "ticker": "MA",
+        "quantity": 34,
+        "average_buy_price": 16.28
+      }
+    ]
+  },
+  {
+    "client_id": "5d98f099-d7a8-47e7-bc0b-e99bdc6e7572",
+    "name": "Diana Trevino",
+    "email": "stephensonsharon@example.org",
+    "phone": "001-763-410-1310x080",
+    "address": "278 Rhodes Ville Apt. 251, Markhaven, NJ 08769",
+    "joined_date": "2023-07-09",
+    "portfolio_value": 472387.18,
+    "positions": [
+      {
+        "ticker": "KO",
+        "quantity": 310,
+        "average_buy_price": 530.84
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 121,
+        "average_buy_price": 463.92
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 25,
+        "average_buy_price": 34.17
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 196,
+        "average_buy_price": 519.64
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 338,
+        "average_buy_price": 395.8
+      }
+    ]
+  },
+  {
+    "client_id": "563019af-d741-45d0-b226-0f3a126e8a95",
+    "name": "Mr. Sean Ramirez DDS",
+    "email": "johnsonchristina@example.com",
+    "phone": "001-320-377-5100x9566",
+    "address": "64213 Lucas Canyon, Swansonmouth, NY 52230",
+    "joined_date": "2020-08-08",
+    "portfolio_value": 151712.93,
+    "positions": [
+      {
+        "ticker": "UNH",
+        "quantity": 200,
+        "average_buy_price": 59.06
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 193,
+        "average_buy_price": 324.47
+      },
+      {
+        "ticker": "HD",
+        "quantity": 164,
+        "average_buy_price": 462.89
+      }
+    ]
+  },
+  {
+    "client_id": "34c89ed3-3062-442c-8fa9-264d9507a5f3",
+    "name": "Mr. Spencer Bates",
+    "email": "mccartykrystal@example.net",
+    "phone": "348.288.6890x24775",
+    "address": "467 Robinson Oval Suite 280, Lake Jessica, WA 88085",
+    "joined_date": "2021-11-09",
+    "portfolio_value": 542906.79,
+    "positions": [
+      {
+        "ticker": "TXN",
+        "quantity": 342,
+        "average_buy_price": 389.22
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 20,
+        "average_buy_price": 352.16
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 255,
+        "average_buy_price": 414.93
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 458,
+        "average_buy_price": 213.53
+      },
+      {
+        "ticker": "META",
+        "quantity": 439,
+        "average_buy_price": 151.79
+      },
+      {
+        "ticker": "AMD",
+        "quantity": 185,
+        "average_buy_price": 358.18
+      },
+      {
+        "ticker": "HD",
+        "quantity": 100,
+        "average_buy_price": 531.42
+      }
+    ]
+  },
+  {
+    "client_id": "16536d6e-232d-4445-a072-3e7d4e1f6358",
+    "name": "Yvonne Cole",
+    "email": "holly17@example.org",
+    "phone": "001-708-837-1735",
+    "address": "USCGC Welch, FPO AP 38999",
+    "joined_date": "2025-09-18",
+    "portfolio_value": 443558.42,
+    "positions": [
+      {
+        "ticker": "PEP",
+        "quantity": 460,
+        "average_buy_price": 411.16
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 296,
+        "average_buy_price": 374.08
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 276,
+        "average_buy_price": 389.39
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 75,
+        "average_buy_price": 423.56
+      }
+    ]
+  },
+  {
+    "client_id": "a2ebd2b0-930c-437b-9c21-72d27704e6a0",
+    "name": "Jesse Santiago",
+    "email": "jgonzalez@example.org",
+    "phone": "001-676-888-7453",
+    "address": "224 Sabrina Grove, Coreyshire, AR 74519",
+    "joined_date": "2025-08-26",
+    "portfolio_value": 145094.67,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 139,
+        "average_buy_price": 174.16
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 143,
+        "average_buy_price": 649.94
+      },
+      {
+        "ticker": "META",
+        "quantity": 116,
+        "average_buy_price": 179.4
+      }
+    ]
+  },
+  {
+    "client_id": "7632fb70-17b4-417f-b75d-dccbdb8a7d46",
+    "name": "Allison Diaz",
+    "email": "goodmanjacob@example.org",
+    "phone": "451-223-5225x679",
+    "address": "6916 Elliott Estate Suite 532, Zacharymouth, GU 70450",
+    "joined_date": "2022-12-19",
+    "portfolio_value": 910439.83,
+    "positions": [
+      {
+        "ticker": "WMT",
+        "quantity": 269,
+        "average_buy_price": 203.82
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 335,
+        "average_buy_price": 533.1
+      },
+      {
+        "ticker": "UPS",
+        "quantity": 178,
+        "average_buy_price": 550.46
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 135,
+        "average_buy_price": 628.39
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 387,
+        "average_buy_price": 588.2
+      },
+      {
+        "ticker": "XOM",
+        "quantity": 415,
+        "average_buy_price": 173.06
+      },
+      {
+        "ticker": "JNJ",
+        "quantity": 273,
+        "average_buy_price": 524.99
+      }
+    ]
+  },
+  {
+    "client_id": "2424a904-ff0a-4c80-afa5-764fbbc94537",
+    "name": "Joseph Myers",
+    "email": "ethanbrady@example.com",
+    "phone": "384.894.9448x227",
+    "address": "99464 Parker Spurs Apt. 128, North Karen, MO 58609",
+    "joined_date": "2026-03-10",
+    "portfolio_value": 280894.61,
+    "positions": [
+      {
+        "ticker": "QCOM",
+        "quantity": 147,
+        "average_buy_price": 599.24
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 331,
+        "average_buy_price": 482.51
+      },
+      {
+        "ticker": "COST",
+        "quantity": 54,
+        "average_buy_price": 324.22
+      }
+    ]
+  },
+  {
+    "client_id": "a4cecf65-5044-40ff-abb0-643e35c6ac89",
+    "name": "Nancy Gonzalez",
+    "email": "maldonadoloretta@example.org",
+    "phone": "+1-922-230-9358x9257",
+    "address": "8385 Kevin Harbors Suite 346, Munozport, MI 20032",
+    "joined_date": "2024-07-23",
+    "portfolio_value": 660177.65,
+    "positions": [
+      {
+        "ticker": "PG",
+        "quantity": 16,
+        "average_buy_price": 566.09
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 318,
+        "average_buy_price": 563.63
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 464,
+        "average_buy_price": 483.27
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 349,
+        "average_buy_price": 550.2
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 221,
+        "average_buy_price": 237.15
+      }
+    ]
+  },
+  {
+    "client_id": "a59d5730-c786-4d5d-988c-919dc9b3eacc",
+    "name": "Dr. John Lam",
+    "email": "austinperez@example.net",
+    "phone": "+1-959-470-8829x5942",
+    "address": "551 Rivera Run Suite 046, West Ryan, GA 62734",
+    "joined_date": "2024-11-28",
+    "portfolio_value": 799634.44,
+    "positions": [
+      {
+        "ticker": "COST",
+        "quantity": 285,
+        "average_buy_price": 134.13
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 291,
+        "average_buy_price": 477.98
+      },
+      {
+        "ticker": "MA",
+        "quantity": 447,
+        "average_buy_price": 633.36
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 54,
+        "average_buy_price": 313.63
+      },
+      {
+        "ticker": "HD",
+        "quantity": 99,
+        "average_buy_price": 480.37
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 407,
+        "average_buy_price": 578.51
+      }
+    ]
+  },
+  {
+    "client_id": "406c0a40-ef01-4c82-b5e1-35e4fb879360",
+    "name": "Anne Wright",
+    "email": "sroberts@example.com",
+    "phone": "(443)441-4345x868",
+    "address": "USCGC Abbott, FPO AP 70146",
+    "joined_date": "2022-05-17",
+    "portfolio_value": 305625.92,
+    "positions": [
+      {
+        "ticker": "AMZN",
+        "quantity": 467,
+        "average_buy_price": 17.93
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 143,
+        "average_buy_price": 596.09
+      },
+      {
+        "ticker": "LOW",
+        "quantity": 197,
+        "average_buy_price": 432.45
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 368,
+        "average_buy_price": 157.5
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 497,
+        "average_buy_price": 121.03
+      }
+    ]
+  },
+  {
+    "client_id": "a3705cdd-012e-4d9d-b246-36f013b3ebc7",
+    "name": "Megan Dickerson",
+    "email": "sarah80@example.net",
+    "phone": "+1-231-263-1458x196",
+    "address": "88136 Nguyen Summit, Barnettshire, VA 49419",
+    "joined_date": "2020-12-07",
+    "portfolio_value": 421189.08,
+    "positions": [
+      {
+        "ticker": "NVDA",
+        "quantity": 147,
+        "average_buy_price": 140.92
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 23,
+        "average_buy_price": 467.73
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 15,
+        "average_buy_price": 123.81
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 404,
+        "average_buy_price": 539.77
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 84,
+        "average_buy_price": 403.08
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 41,
+        "average_buy_price": 216.24
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 470,
+        "average_buy_price": 205.28
+      }
+    ]
+  },
+  {
+    "client_id": "965cc072-6f86-47ce-9cb9-bc5ff32ed27d",
+    "name": "Sabrina Johnson",
+    "email": "paula40@example.net",
+    "phone": "(439)698-5279x6484",
+    "address": "95057 Marcus Unions Suite 292, Lisastad, VT 84972",
+    "joined_date": "2024-03-01",
+    "portfolio_value": 687094.61,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 153,
+        "average_buy_price": 94.23
+      },
+      {
+        "ticker": "ORCL",
+        "quantity": 498,
+        "average_buy_price": 233.69
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 449,
+        "average_buy_price": 368.08
+      },
+      {
+        "ticker": "PG",
+        "quantity": 236,
+        "average_buy_price": 325.71
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 131,
+        "average_buy_price": 175.76
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 260,
+        "average_buy_price": 258.82
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 347,
+        "average_buy_price": 522.29
+      }
+    ]
+  },
+  {
+    "client_id": "0a4890fb-a521-4759-8d26-bc4e5277971f",
+    "name": "Kevin Morris",
+    "email": "murillomichelle@example.org",
+    "phone": "823.332.1064",
+    "address": "Unit 4800 Box 2673, DPO AP 81823",
+    "joined_date": "2021-04-27",
+    "portfolio_value": 179507.08,
+    "positions": [
+      {
+        "ticker": "SBUX",
+        "quantity": 28,
+        "average_buy_price": 507.91
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 171,
+        "average_buy_price": 53.91
+      },
+      {
+        "ticker": "KO",
+        "quantity": 424,
+        "average_buy_price": 350.75
+      }
+    ]
+  },
+  {
+    "client_id": "ff93135a-82d5-4eea-a3cf-6b4a0f6e13b6",
+    "name": "Lauren Smith",
+    "email": "kelly42@example.net",
+    "phone": "(618)380-1066",
+    "address": "0442 Zimmerman Shoals Suite 149, West Isabellaburgh, OK 70647",
+    "joined_date": "2022-09-18",
+    "portfolio_value": 249596.04,
+    "positions": [
+      {
+        "ticker": "T",
+        "quantity": 146,
+        "average_buy_price": 36.71
+      },
+      {
+        "ticker": "BMY",
+        "quantity": 210,
+        "average_buy_price": 76.66
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 293,
+        "average_buy_price": 582.05
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 402,
+        "average_buy_price": 35.13
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 172,
+        "average_buy_price": 241.48
+      }
+    ]
+  },
+  {
+    "client_id": "addd299a-148c-42f3-8258-ef4168d0700d",
+    "name": "Joyce Soto",
+    "email": "cynthia49@example.com",
+    "phone": "847.304.5519x0535",
+    "address": "19955 Andres Inlet Suite 712, Johnburgh, NJ 30922",
+    "joined_date": "2024-09-02",
+    "portfolio_value": 800677.4,
+    "positions": [
+      {
+        "ticker": "VZ",
+        "quantity": 486,
+        "average_buy_price": 293.84
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 53,
+        "average_buy_price": 511.07
+      },
+      {
+        "ticker": "TSLA",
+        "quantity": 64,
+        "average_buy_price": 597.34
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 399,
+        "average_buy_price": 244.15
+      },
+      {
+        "ticker": "PG",
+        "quantity": 397,
+        "average_buy_price": 32.49
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 428,
+        "average_buy_price": 520.7
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 398,
+        "average_buy_price": 448.15
+      },
+      {
+        "ticker": "IBM",
+        "quantity": 201,
+        "average_buy_price": 220.06
+      }
+    ]
+  },
+  {
+    "client_id": "b2be1f01-3074-4bb8-b5c8-20058ab5de06",
+    "name": "Dana Strong",
+    "email": "washingtonjennifer@example.com",
+    "phone": "(548)657-1861x6677",
+    "address": "64270 April Ports Apt. 685, New Samantha, ID 54143",
+    "joined_date": "2022-02-26",
+    "portfolio_value": 375117.07,
+    "positions": [
+      {
+        "ticker": "XOM",
+        "quantity": 172,
+        "average_buy_price": 247.31
+      },
+      {
+        "ticker": "T",
+        "quantity": 222,
+        "average_buy_price": 78.83
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 22,
+        "average_buy_price": 558.87
+      },
+      {
+        "ticker": "BRK.B",
+        "quantity": 403,
+        "average_buy_price": 383.3
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 324,
+        "average_buy_price": 308.48
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 51,
+        "average_buy_price": 21.02
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 182,
+        "average_buy_price": 237.9
+      }
+    ]
+  },
+  {
+    "client_id": "4e60f1db-fee7-4127-b343-198b76d27e49",
+    "name": "Justin Barnett",
+    "email": "kimberly77@example.com",
+    "phone": "546-650-2787x084",
+    "address": "17831 Tammy Orchard, Collierport, TX 56780",
+    "joined_date": "2021-04-07",
+    "portfolio_value": 880577.5,
+    "positions": [
+      {
+        "ticker": "V",
+        "quantity": 257,
+        "average_buy_price": 517.0
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 76,
+        "average_buy_price": 625.23
+      },
+      {
+        "ticker": "HD",
+        "quantity": 224,
+        "average_buy_price": 626.7
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 311,
+        "average_buy_price": 523.96
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 343,
+        "average_buy_price": 574.87
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 256,
+        "average_buy_price": 487.74
+      },
+      {
+        "ticker": "KO",
+        "quantity": 45,
+        "average_buy_price": 568.78
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 157,
+        "average_buy_price": 205.62
+      }
+    ]
+  },
+  {
+    "client_id": "7930b03c-9dec-4845-a64f-36e858b62d67",
+    "name": "Bethany Martin",
+    "email": "smithbrian@example.org",
+    "phone": "+1-631-678-0825x844",
+    "address": "12991 John Radial Apt. 405, Jamesville, DC 01496",
+    "joined_date": "2021-02-14",
+    "portfolio_value": 550212.36,
+    "positions": [
+      {
+        "ticker": "PG",
+        "quantity": 338,
+        "average_buy_price": 562.78
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 183,
+        "average_buy_price": 627.66
+      },
+      {
+        "ticker": "LLY",
+        "quantity": 373,
+        "average_buy_price": 484.14
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 29,
+        "average_buy_price": 446.95
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 200,
+        "average_buy_price": 117.99
+      }
+    ]
+  },
+  {
+    "client_id": "863cb9a1-1e21-4dc7-8537-8261ce4cb6ea",
+    "name": "Shannon Summers",
+    "email": "joseph01@example.net",
+    "phone": "(206)781-1851x45533",
+    "address": "430 Jacob Rapids Apt. 040, North Steven, RI 69232",
+    "joined_date": "2024-11-19",
+    "portfolio_value": 709405.94,
+    "positions": [
+      {
+        "ticker": "MRK",
+        "quantity": 63,
+        "average_buy_price": 511.1
+      },
+      {
+        "ticker": "GOOGL",
+        "quantity": 474,
+        "average_buy_price": 332.94
+      },
+      {
+        "ticker": "V",
+        "quantity": 109,
+        "average_buy_price": 531.86
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 188,
+        "average_buy_price": 644.54
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 224,
+        "average_buy_price": 105.79
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 22,
+        "average_buy_price": 116.82
+      },
+      {
+        "ticker": "META",
+        "quantity": 482,
+        "average_buy_price": 633.04
+      }
+    ]
+  },
+  {
+    "client_id": "8c0af1c8-d2f8-4f15-b973-cfcb8b95eae7",
+    "name": "Brittany Sparks",
+    "email": "stephanie13@example.net",
+    "phone": "(993)842-6450",
+    "address": "8626 Kimberly Center Apt. 651, North Anthony, CO 52774",
+    "joined_date": "2020-07-26",
+    "portfolio_value": 442109.71,
+    "positions": [
+      {
+        "ticker": "UPS",
+        "quantity": 281,
+        "average_buy_price": 425.61
+      },
+      {
+        "ticker": "GE",
+        "quantity": 108,
+        "average_buy_price": 149.33
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 400,
+        "average_buy_price": 336.62
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 240,
+        "average_buy_price": 329.15
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 392,
+        "average_buy_price": 67.26
+      },
+      {
+        "ticker": "NVDA",
+        "quantity": 293,
+        "average_buy_price": 86.38
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 24,
+        "average_buy_price": 318.81
+      },
+      {
+        "ticker": "HD",
+        "quantity": 43,
+        "average_buy_price": 457.59
+      }
+    ]
+  },
+  {
+    "client_id": "0db8537a-4758-45d2-8dda-4ddb99a00142",
+    "name": "Russell Peterson",
+    "email": "ynelson@example.com",
+    "phone": "(286)340-8695x61024",
+    "address": "USNV Sutton, FPO AE 74923",
+    "joined_date": "2024-01-18",
+    "portfolio_value": 787295.31,
+    "positions": [
+      {
+        "ticker": "QCOM",
+        "quantity": 445,
+        "average_buy_price": 517.88
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 288,
+        "average_buy_price": 165.08
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 475,
+        "average_buy_price": 531.43
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 314,
+        "average_buy_price": 527.24
+      },
+      {
+        "ticker": "PG",
+        "quantity": 241,
+        "average_buy_price": 354.08
+      }
+    ]
+  },
+  {
+    "client_id": "d94354d2-f664-4186-a913-b12dfd614dc0",
+    "name": "Rachel Ross",
+    "email": "yvonne62@example.org",
+    "phone": "964.254.2311x720",
+    "address": "392 Payne Harbors, South Elizabethstad, AL 55558",
+    "joined_date": "2025-01-02",
+    "portfolio_value": 897645.01,
+    "positions": [
+      {
+        "ticker": "AMD",
+        "quantity": 457,
+        "average_buy_price": 607.26
+      },
+      {
+        "ticker": "CMCSA",
+        "quantity": 167,
+        "average_buy_price": 612.31
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 133,
+        "average_buy_price": 412.3
+      },
+      {
+        "ticker": "VZ",
+        "quantity": 167,
+        "average_buy_price": 149.92
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 450,
+        "average_buy_price": 493.08
+      },
+      {
+        "ticker": "DIS",
+        "quantity": 398,
+        "average_buy_price": 315.84
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 335,
+        "average_buy_price": 215.75
+      }
+    ]
+  },
+  {
+    "client_id": "bbf3b10a-1e1d-4b99-bf22-2c19e7bb0a76",
+    "name": "Kimberly Smith",
+    "email": "nlee@example.org",
+    "phone": "+1-550-316-3434",
+    "address": "1148 Boyd Burgs, Port Stevenland, TX 44635",
+    "joined_date": "2024-10-26",
+    "portfolio_value": 864689.98,
+    "positions": [
+      {
+        "ticker": "MDT",
+        "quantity": 233,
+        "average_buy_price": 474.07
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 259,
+        "average_buy_price": 507.53
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 327,
+        "average_buy_price": 248.39
+      },
+      {
+        "ticker": "AMGN",
+        "quantity": 442,
+        "average_buy_price": 325.85
+      },
+      {
+        "ticker": "NVDA",
+        "quantity": 440,
+        "average_buy_price": 472.14
+      },
+      {
+        "ticker": "WMT",
+        "quantity": 90,
+        "average_buy_price": 92.2
+      },
+      {
+        "ticker": "PG",
+        "quantity": 426,
+        "average_buy_price": 351.17
+      }
+    ]
+  },
+  {
+    "client_id": "1dcdacf2-b9dd-4cf3-bb06-acc41d568367",
+    "name": "Cheryl Turner",
+    "email": "ypeters@example.com",
+    "phone": "+1-552-872-2048x6456",
+    "address": "5805 Evans Islands Apt. 565, North Benjaminfurt, WA 03941",
+    "joined_date": "2022-10-28",
+    "portfolio_value": 611276.76,
+    "positions": [
+      {
+        "ticker": "CMCSA",
+        "quantity": 436,
+        "average_buy_price": 400.61
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 46,
+        "average_buy_price": 599.05
+      },
+      {
+        "ticker": "UNH",
+        "quantity": 100,
+        "average_buy_price": 413.64
+      },
+      {
+        "ticker": "GE",
+        "quantity": 237,
+        "average_buy_price": 456.62
+      },
+      {
+        "ticker": "PEP",
+        "quantity": 57,
+        "average_buy_price": 239.39
+      },
+      {
+        "ticker": "NEE",
+        "quantity": 233,
+        "average_buy_price": 203.46
+      },
+      {
+        "ticker": "CSCO",
+        "quantity": 388,
+        "average_buy_price": 423.26
+      }
+    ]
+  },
+  {
+    "client_id": "6b78d0ba-72c6-49f1-985a-aab0301184b5",
+    "name": "Charles Anderson",
+    "email": "smithmike@example.com",
+    "phone": "5082041161",
+    "address": "166 Rodriguez Way Apt. 731, Barbarafort, FM 97455",
+    "joined_date": "2021-03-24",
+    "portfolio_value": 371068.37,
+    "positions": [
+      {
+        "ticker": "LLY",
+        "quantity": 157,
+        "average_buy_price": 193.87
+      },
+      {
+        "ticker": "MSFT",
+        "quantity": 184,
+        "average_buy_price": 304.65
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 388,
+        "average_buy_price": 229.61
+      },
+      {
+        "ticker": "JPM",
+        "quantity": 93,
+        "average_buy_price": 154.06
+      },
+      {
+        "ticker": "CRM",
+        "quantity": 472,
+        "average_buy_price": 104.51
+      },
+      {
+        "ticker": "MRK",
+        "quantity": 68,
+        "average_buy_price": 470.71
+      },
+      {
+        "ticker": "AMD",
+        "quantity": 93,
+        "average_buy_price": 445.83
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 100,
+        "average_buy_price": 506.97
+      }
+    ]
+  },
+  {
+    "client_id": "2f792954-bb42-46e5-9d7e-0a1c8fd049fc",
+    "name": "Nichole Hill",
+    "email": "brandybarnett@example.com",
+    "phone": "869.677.9817x4152",
+    "address": "87604 Walker Passage, Johnsonmouth, AZ 33310",
+    "joined_date": "2022-11-26",
+    "portfolio_value": 352758.07,
+    "positions": [
+      {
+        "ticker": "QCOM",
+        "quantity": 312,
+        "average_buy_price": 139.98
+      },
+      {
+        "ticker": "INTC",
+        "quantity": 380,
+        "average_buy_price": 55.04
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 431,
+        "average_buy_price": 422.86
+      },
+      {
+        "ticker": "MA",
+        "quantity": 197,
+        "average_buy_price": 27.47
+      },
+      {
+        "ticker": "ORCL",
+        "quantity": 246,
+        "average_buy_price": 311.96
+      }
+    ]
+  },
+  {
+    "client_id": "94e01a12-2c8d-4c26-ad44-d73c54aa5f87",
+    "name": "Brian Kirby",
+    "email": "ispence@example.com",
+    "phone": "(874)916-7914x071",
+    "address": "11976 April Place Apt. 437, West Lisa, CO 89617",
+    "joined_date": "2021-08-29",
+    "portfolio_value": 968554.79,
+    "positions": [
+      {
+        "ticker": "CSCO",
+        "quantity": 430,
+        "average_buy_price": 308.76
+      },
+      {
+        "ticker": "HD",
+        "quantity": 212,
+        "average_buy_price": 388.91
+      },
+      {
+        "ticker": "PFE",
+        "quantity": 385,
+        "average_buy_price": 643.0
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 258,
+        "average_buy_price": 507.55
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 169,
+        "average_buy_price": 620.12
+      },
+      {
+        "ticker": "ABT",
+        "quantity": 25,
+        "average_buy_price": 260.46
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 21,
+        "average_buy_price": 224.38
+      },
+      {
+        "ticker": "ADBE",
+        "quantity": 391,
+        "average_buy_price": 508.04
+      }
+    ]
+  },
+  {
+    "client_id": "00508f08-6270-450e-a832-218e84afadee",
+    "name": "Mary Santana",
+    "email": "edwardgutierrez@example.org",
+    "phone": "699-764-7521x28632",
+    "address": "21143 Rodriguez Summit, Bellburgh, TN 72389",
+    "joined_date": "2022-11-12",
+    "portfolio_value": 659602.8,
+    "positions": [
+      {
+        "ticker": "CMCSA",
+        "quantity": 236,
+        "average_buy_price": 80.54
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 186,
+        "average_buy_price": 188.88
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 404,
+        "average_buy_price": 243.1
+      },
+      {
+        "ticker": "MDT",
+        "quantity": 251,
+        "average_buy_price": 648.39
+      },
+      {
+        "ticker": "KO",
+        "quantity": 496,
+        "average_buy_price": 612.08
+      }
+    ]
+  },
+  {
+    "client_id": "96f6fc9e-7e71-446a-87ed-7516e62d27ed",
+    "name": "Connie Brown",
+    "email": "tprice@example.net",
+    "phone": "001-593-281-0558x16987",
+    "address": "0650 Long Drives, North Luis, LA 40252",
+    "joined_date": "2021-07-14",
+    "portfolio_value": 498270.84,
+    "positions": [
+      {
+        "ticker": "COST",
+        "quantity": 47,
+        "average_buy_price": 165.26
+      },
+      {
+        "ticker": "QCOM",
+        "quantity": 282,
+        "average_buy_price": 613.43
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 359,
+        "average_buy_price": 478.11
+      },
+      {
+        "ticker": "CVX",
+        "quantity": 32,
+        "average_buy_price": 214.61
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 318,
+        "average_buy_price": 273.78
+      },
+      {
+        "ticker": "PG",
+        "quantity": 106,
+        "average_buy_price": 466.68
+      }
+    ]
+  },
+  {
+    "client_id": "58e06feb-4ff8-4dcd-a978-1ff3c651e25b",
+    "name": "Jeffrey Nguyen",
+    "email": "bishopmichael@example.com",
+    "phone": "970.335.4012x7973",
+    "address": "13022 Devin Landing Apt. 508, West Jacob, NY 68819",
+    "joined_date": "2022-08-05",
+    "portfolio_value": 276332.07,
+    "positions": [
+      {
+        "ticker": "UNH",
+        "quantity": 310,
+        "average_buy_price": 394.66
+      },
+      {
+        "ticker": "HD",
+        "quantity": 142,
+        "average_buy_price": 209.95
+      },
+      {
+        "ticker": "AXP",
+        "quantity": 78,
+        "average_buy_price": 124.67
+      },
+      {
+        "ticker": "TXN",
+        "quantity": 358,
+        "average_buy_price": 293.18
+      }
+    ]
+  },
+  {
+    "client_id": "61ef2ce2-15f4-4ebc-89f8-ea4396226015",
+    "name": "Geoffrey King",
+    "email": "coreylewis@example.com",
+    "phone": "+1-950-785-7336x058",
+    "address": "384 Burns Meadows Suite 497, Laurenborough, NJ 73620",
+    "joined_date": "2023-03-18",
+    "portfolio_value": 475667.89,
+    "positions": [
+      {
+        "ticker": "WMT",
+        "quantity": 32,
+        "average_buy_price": 614.38
+      },
+      {
+        "ticker": "NVDA",
+        "quantity": 183,
+        "average_buy_price": 568.07
+      },
+      {
+        "ticker": "SBUX",
+        "quantity": 369,
+        "average_buy_price": 66.57
+      },
+      {
+        "ticker": "NKE",
+        "quantity": 449,
+        "average_buy_price": 85.12
+      },
+      {
+        "ticker": "META",
+        "quantity": 465,
+        "average_buy_price": 617.17
+      }
+    ]
+  },
+  {
+    "client_id": "7122c96d-0f06-4b08-828a-05870af17f72",
+    "name": "Stephanie Mckinney",
+    "email": "masseybrandon@example.org",
+    "phone": "001-769-785-2275x1309",
+    "address": "7867 Grace Junctions Suite 000, West Dawn, OK 00548",
+    "joined_date": "2024-08-06",
+    "portfolio_value": 304506.52,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "quantity": 173,
+        "average_buy_price": 344.63
+      },
+      {
+        "ticker": "MCD",
+        "quantity": 206,
+        "average_buy_price": 649.24
+      },
+      {
+        "ticker": "BAC",
+        "quantity": 243,
+        "average_buy_price": 445.96
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+    "eventType":"PriceUpdated",
+    "symbol":"AAPL",
+    "price":210.50,
+    "timestamp":"2026-05-20T10:30:00"
+}

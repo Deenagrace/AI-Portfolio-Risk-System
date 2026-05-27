@@ -1,0 +1,7 @@
+{
+    "eventType":"RiskThresholdBreached",
+    "client":"Sample Investor",
+    "stock":"AAPL",
+    "exposure":32.0,
+    "severity":"HIGH"
+}

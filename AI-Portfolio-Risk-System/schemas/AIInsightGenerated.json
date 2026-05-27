@@ -1,0 +1,11 @@
+{
+   "eventType":"AIInsightGenerated",
+
+   "client":"Sample Investor",
+
+   "explanation":"Portfolio concentration risk detected",
+
+   "action":"Diversify holdings",
+
+   "severity":"HIGH"
+}
